@@ -24,13 +24,13 @@ This is a robot got 3 control method
 ## Circuit Diagram
 
   </a>
-    <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/CC_robo_bb.png" alt="Logo" width="300" height="300">
+    <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/CC_robo_bb.png" alt="Logo" width="500" height="500">
   </a>
  
 ## Schematic Diagram
 
   </a>
-    <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/CC_robo_schem.png" alt="Logo" width="300" height="300">
+    <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/CC_robo_schem.png" alt="Logo" width="500" height="500">
   </a>
   
 ### Built With
