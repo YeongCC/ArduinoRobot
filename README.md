@@ -3,17 +3,17 @@
 <br />
 <p align="center">
   <a href="https://github.com/YeongCC/ArduinoRobot">
-    <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/2.jpg" alt="Logo" width="500" height="500">
+    <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/2.jpg" alt="Logo" width="450" height="450">
   </a>
-    <h3 align="center">Picture 1.0</h3>
+
   <a href="https://github.com/YeongCC/ArduinoRobot">
-    <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/3.jpg" alt="Logo" width="500" height="500">
+    <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/3.jpg" alt="Logo" width="450" height="450">
   </a>
-    <h3 align="center">Picture 2.0</h3>
+
     <a href="https://github.com/YeongCC/ArduinoRobot">
-    <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/1.jpg" alt="Logo" width="500" height="500">
+    <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/1.jpg" alt="Logo" width="450" height="450">
   </a>
-  <h3 align="center">Picture 3.0</h3>
+
   <h3 align="center">Arduino Robot</h3>
 </p>
 
