@@ -21,12 +21,14 @@ This is a robot got 3 control method
 -Sensor Manager (Android application)
 -Utrasonic Sensor (HCSR-04)
 
-##Circuit Diagram
+## Circuit Diagram
+
   </a>
     <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/CC_robo_bb.png" alt="Logo" width="300" height="300">
   </a>
  
-##Schematic Diagram
+## Schematic Diagram
+
   </a>
     <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/CC_robo_schem.png" alt="Logo" width="300" height="300">
   </a>
