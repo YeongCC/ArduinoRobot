@@ -9,7 +9,7 @@
     <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/3.jpg" alt="Logo" width="500" height="500">
   </a>
     <a href="https://github.com/YeongCC/ArduinoRobot">
-    <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/1.jpg" alt="Logo" width="650" height="500">
+    <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/1.jpg" alt="Logo" width="500" height="500">
   </a>
   <h3 align="center">Arduino Robot</h3>
 </p>
