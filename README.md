@@ -24,7 +24,7 @@ This is a robot got 3 control method
 ## Circuit Diagram
 
   </a>
-    <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/CC_robo_bb.png" alt="Logo" width="500" height="500">
+    <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/CC_robo_bb.png" alt="Logo" width="900" height="700">
   </a>
  
 ## Schematic Diagram
