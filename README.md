@@ -16,10 +16,20 @@
 
 ## About The Project
 
+This project is using bluetooth(HC05) connect to Android application . The Android application can send the command to control the Robot to move and also can receive data from the bluetooth . 
+
+
+
+## How The Project Work ?
+
+* First pair the device in the Phone's setting- Bluetooth The passcode is 1234 
+* After pairing, the device will be Shown in the Application and then tap on it to connect
+* On connecting the application will show connected and LED of the Module will blink in intervals which will indicate that it is now connected
+
 This is a robot got 3 control method 
-* Key Control (Android application)
-* Sensor Manager (Android application)
-* Utrasonic Sensor (HCSR-04)
+* Key Control Mode (Android application)
+* Accelerometer Mode (Android application)
+* Auto Mode -Utrasonic Sensor (HCSR-04)
 
 ## Circuit Diagram
 
