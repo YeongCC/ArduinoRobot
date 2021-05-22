@@ -17,9 +17,9 @@
 ## About The Project
 
 This is a robot got 3 control method 
-*Key Control (Android application)
-*Sensor Manager (Android application)
-*Utrasonic Sensor (HCSR-04)
+* Key Control (Android application)
+* Sensor Manager (Android application)
+* Utrasonic Sensor (HCSR-04)
 
 ## Circuit Diagram
 
