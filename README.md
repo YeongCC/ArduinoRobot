@@ -21,8 +21,6 @@
 
 This project is using bluetooth(HC05) connect to Android application . The Android application can send the command to control the Robot to move and also can receive data from the bluetooth . 
 
-
-
 ## How The Project Work ?
 
 * First pair the device in the Phone's setting- Bluetooth The passcode is 1234 
@@ -33,6 +31,22 @@ This is a robot got 3 control method
 * Key Control Mode (Android application)
 * Accelerometer Mode (Android application)
 * Auto Mode -Utrasonic Sensor (HCSR-04)
+
+### Hardware Components
+* Arduino UNO
+* Dual H-Bridge motor drivers L298N 
+* HC-05 Bluetooth Module
+* HC-SR04 Ultrasonic Sensor
+* Servo Motor
+* A205SYZQ04 Toggle Switch
+* 12V battery
+* 9v battery
+* Male/Female Jumper Wires
+* Robot Base Kit
+
+### Built With
+* Java
+* C++
 
 ## Circuit Diagram
 
@@ -46,8 +60,6 @@ This is a robot got 3 control method
     <img src="https://github.com/YeongCC/ArduinoRobot/blob/main/Picture/CC_robo_schem.png" alt="Logo" width="1000" height="700">
   </a>
   
-### Built With
-* Java
-* C++
+
 
 
