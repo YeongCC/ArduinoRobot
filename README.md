@@ -45,8 +45,8 @@ This is a robot got 3 control method
 * Robot Base Kit
 
 ### Built With
-* Java
-* C++
+* Java (ANDROID STUDIO)
+* C++  (ARDUINO IDE)
 
 ## Circuit Diagram
 
